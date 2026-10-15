@@ -254,4 +254,4 @@ This repository serves as the official landing page for **Nero Burning ROM**. Th
 **Get the most recent version of Nero Burning ROM today!**
 
 ---
-**Last updated:** 2026-10-14 22:44:41 UTC
+**Last updated:** 2026-10-15 01:00:16 UTC
